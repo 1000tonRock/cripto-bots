@@ -139,3 +139,4 @@ def calc(doc):
 
 if __name__ == '__main__':
     calc(d())
+    
