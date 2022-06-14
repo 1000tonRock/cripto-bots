@@ -1,4 +1,4 @@
-# cripto-bots
+# Cripto-bots
 cryptocurrencies trading bots
 
 the files 'bot.py' and 'parabot.py' are the principal bots
